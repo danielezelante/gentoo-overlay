@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<repositories version="1.0">
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
     <name>zetasys</name>
       <description lang="en">zetasys.net Custom Gentoo Overlay.</description>
