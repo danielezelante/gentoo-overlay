@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>zetasys</name>
+      <description lang="en">zetasys.net Custom Gentoo Overlay.</description>
+        <homepage>https://github.com/danielezelante/gentoo-overlay</homepage>
+        <owner type="person">
+            <name>Daniele Zelante</name>
+            <email>zeldan@zetasys.net</email>
+        </owner>
+        <source type="git">git://github.com/danielezelante/gentoo-overlay.git</source>
+        <feed>https://github.com/danielezelante/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
